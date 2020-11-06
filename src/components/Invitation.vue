@@ -6,9 +6,9 @@
           <div class="content-inside">
             <img class="content-inside-photo" src="../images/photo.jpg">
             <p>我们结婚啦！</p>
-            <p><b>Jun & undefined</b></p>
-            <p>时间：invalid date value</p>
-            <p>地点：<b>location can not be found</b></p>
+            <p><b>李尚顺 & 李孝利</b></p>
+            <p>时间：2016 09 01</p>
+            <p>地点：<b>韩国·济州岛</b></p>
             <div class="content-inside-bless">
               <input
                 placeholder="写下你的祝福" 
